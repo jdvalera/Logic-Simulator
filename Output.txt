@@ -1,0 +1,18 @@
+---------Circuit Listing--------
+1   XOR1   XOR    A     B
+2   SUM    XOR    1     C
+3   AND2   AND    A     C
+4   AND1   AND    A     B
+5   AND3   AND    B	C
+6   CARRY  OR     3     4     5
+
+         A          B          C        SUM      CARRY 
+
+         0          0          0          0          0 
+         0          0          1          1          0 
+         0          1          0          1          0 
+         0          1          1          0          1 
+         1          0          0          1          0 
+         1          0          1          0          1 
+         1          1          0          0          1 
+         1          1          1          1          1 
