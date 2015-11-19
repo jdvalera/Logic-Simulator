@@ -21,7 +21,7 @@ Python program used to simulate a combinational logic gate circuit. The program 
 2. Run `logic_simulator.py` (Python v3)
 3. When prompted to enter a file name type one of the following test filed (input_1a, input_2a, input_3a) like so: `Enter a filename: input_1a`
 4. When prompted to enter the outputs you want to track, choose any of the gate names. <br>Example:                          `Enter the outputs you want to track seperated by a comma: SUM, CARRY`
-5. The output table will be printed on the shell. The program also writes the output to a file named 'Output.txt'.
+5. The output table will be printed on the shell. The program will generate an output file named `Output.txt`.
 6. The output will look like this: <br> 
 ```
   A          B          C        SUM      CARRY 
