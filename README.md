@@ -17,10 +17,10 @@ Python program used to simulate a combinational logic gate circuit. The program 
 
 ### Project Package
 **logic_simulator.py** - The main python file that holds all the logic for generating the truth tables. <br>
-**input_1a** - Input test file. <br>
-**input_2a** - Input test file. <br>
-**input_3a** - Input test file. <br>
-**Ece480_Project1_Report** - Detailed report on logic_simulator.py <br>
+**input_1a.txt** - Input test file. <br>
+**input_2a.txt** - Input test file. <br>
+**input_3a.txt** - Input test file. <br>
+**Ece480_Project1_Report.pdf** - Detailed report on logic_simulator.py <br>
 
 ### Running the program
 
